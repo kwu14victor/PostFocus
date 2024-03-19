@@ -1,3 +1,2 @@
 # PostFocus
-Post-acquisition focus restoration pipeline
-Update of requirements and docstrings is on the way
+Post-acquisition focus restoration pipeline, updates of requirements and docstrings are on the way.
